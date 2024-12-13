@@ -1,2 +1,2 @@
-# ProjetosdaAlura
-Página para postar meus pequenos projetos desenvolvidos ao longo dos cursos da Alura realizados.
+# Projeto Jogo Número Secreto
+Página feita para postar meu primeiro projeto feito através da plataforma alura!
